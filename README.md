@@ -1,6 +1,7 @@
 # Telegram-Bot
 Telebot is a Python library that provides a simple and intuitive API for building Telegram bots. 
 Telebot is an open-source Python library that provides an easy-to-use and intuitive API for building Telegram bots. The library is designed to be lightweight, fast, and flexible, making it an ideal choice for developers who want to create powerful bots quickly and easily.
+![download](https://user-images.githubusercontent.com/105795532/235328066-38174e8f-4ff1-4c3f-a553-681dc9b0b2d7.png)
 
 With Telebot, developers can build bots that can interact with users in real-time, sending and receiving messages, as well as performing a wide range of other actions such as sending media files, creating custom keyboards, handling inline queries, and more. This makes it a great tool for a variety of use cases, including customer support, news delivery, and more.
 
